@@ -22,7 +22,7 @@ const App = () => {
   useEffect(() => {
     const fetchRouteData = async () => {
       try {
-        const response = await axios.get('http://localhost:3000/api/route');
+        const response = await axios.get('https://vehicletrackerb.onrender.com/api/route');
         if (response.data && response.data.length > 0) {
           setRoute(response.data);
           setCurrentLocation(response.data[0]);
