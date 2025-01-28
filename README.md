@@ -46,7 +46,9 @@ The app will be available at `http://localhost:3000`.
 
 Check out the live version of the app hosted on Netlify:
 
-[Vehicle Tracker - Live Demo](https://clinquant-salmiakki-2b0548.netlify.app/)
+[Vehicle Tracker - Live Demo](https://willowy-choux-f7af07.netlify.app/)
+
+<!-- https://willowy-choux-f7af07.netlify.app/ -->
 
 ## GitHub Repository
 
